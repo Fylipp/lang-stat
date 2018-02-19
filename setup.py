@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='langstat',
-    version='1.0.0',
+    version='1.1.0',
 
     description='Finds most common words for a language',
     author='Philipp Ploder',
